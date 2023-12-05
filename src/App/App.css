@@ -1,0 +1,14 @@
+header.App-header {
+  background-color: white;
+  padding: 5px;
+  text-align: center;
+  box-shadow: 2px 2px 5px #0000002e;
+}
+
+.input-wrapper {
+  padding-top: 5vh;
+  width: 70%;
+  position: relative;
+  margin: 0px auto;
+  height: 100px;
+}
